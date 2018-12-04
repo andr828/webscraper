@@ -1,3 +1,5 @@
+## Gets jobs list from Indeed.com
+
 ## How to run rakefile
 
 rake get_jobs["angular"]
